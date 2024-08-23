@@ -86,7 +86,7 @@ export type {
   ExclusiveGestureType as ExclusiveGesture,
 } from 'react-native-gesture-handler/src/handlers/gestures/gestureComposition';
 export type { GestureStateManagerType as GestureStateManager } from 'react-native-gesture-handler/src/handlers/gestures/gestureStateManager';
-// export { NativeViewGestureHandler } from './handlers/NativeViewGestureHandler';
+export { NativeViewGestureHandler } from 'react-native-gesture-handler/src/handlers/NativeViewGestureHandler';
 export type {
   RawButtonProps,
   BaseButtonProps,
